@@ -1,0 +1,91 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "iPhone 15 Pro",
+      "description": "The most advanced iPhone yet with titanium design and A17 Pro chip",
+      "price": 999.99,
+      "imageUrl": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=400",
+      "category": "Electronics",
+      "rating": 4.8,
+      "reviewCount": 1250,
+      "inStock": true,
+      "discountPercentage": 10,
+      "tags": ["smartphone", "apple", "premium"],
+      "createdAt": "2024-01-15T08:00:00Z",
+      "updatedAt": "2024-01-20T10:30:00Z"
+    },
+    {
+      "id": "2",
+      "name": "Samsung Galaxy S24",
+      "description": "Next-generation Galaxy with AI-powered camera and stunning display",
+      "price": 849.99,
+      "imageUrl": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400",
+      "category": "Electronics",
+      "rating": 4.6,
+      "reviewCount": 890,
+      "inStock": true,
+      "tags": ["smartphone", "samsung", "android"],
+      "createdAt": "2024-01-10T09:15:00Z",
+      "updatedAt": "2024-01-18T14:20:00Z"
+    },
+    {
+      "id": "3",
+      "name": "Nike Air Max 270",
+      "description": "Comfortable running shoes with Max Air unit for ultimate cushioning",
+      "price": 149.99,
+      "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400",
+      "category": "Sports",
+      "rating": 4.4,
+      "reviewCount": 567,
+      "inStock": true,
+      "discountPercentage": 25,
+      "tags": ["shoes", "nike", "running", "sports"],
+      "createdAt": "2024-01-12T11:45:00Z",
+      "updatedAt": "2024-01-19T16:10:00Z"
+    },
+    {
+      "id": "4",
+      "name": "MacBook Pro 14\"",
+      "description": "Powerful laptop with M3 chip for professional work and creativity",
+      "price": 1999.99,
+      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400",
+      "category": "Electronics",
+      "rating": 4.9,
+      "reviewCount": 2100,
+      "inStock": true,
+      "tags": ["laptop", "apple", "professional", "m3"],
+      "createdAt": "2024-01-08T07:30:00Z",
+      "updatedAt": "2024-01-22T09:45:00Z"
+    },
+    {
+      "id": "5",
+      "name": "Wireless Headphones",
+      "description": "Premium noise-cancelling headphones with 30-hour battery life",
+      "price": 299.99,
+      "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400",
+      "category": "Electronics",
+      "rating": 4.5,
+      "reviewCount": 445,
+      "inStock": false,
+      "discountPercentage": 15,
+      "tags": ["headphones", "wireless", "audio", "noise-cancelling"],
+      "createdAt": "2024-01-14T13:20:00Z",
+      "updatedAt": "2024-01-21T11:15:00Z"
+    },
+    {
+      "id": "6",
+      "name": "Denim Jacket",
+      "description": "Classic denim jacket perfect for casual wear and layering",
+      "price": 79.99,
+      "imageUrl": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=400",
+      "category": "Clothing",
+      "rating": 4.2,
+      "reviewCount": 234,
+      "inStock": true,
+      "tags": ["clothing", "denim", "jacket", "casual"],
+      "createdAt": "2024-01-11T15:10:00Z",
+      "updatedAt": "2024-01-20T08:30:00Z"
+    }
+  ]
+}

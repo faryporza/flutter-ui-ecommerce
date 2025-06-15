@@ -1,0 +1,51 @@
+name: test
+description: "An E-commerce Flutter app with modern UI."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # 🛒 UI & Design
+  tdesign_flutter: 0.2.2           # Updated to available version
+  flutter_svg: ^2.0.10              # สำหรับ SVG icon/logo
+  cached_network_image: ^3.3.1      # โหลดภาพพร้อมแคช
+
+  # 🧠 State Management
+  flutter_riverpod: ^2.5.0
+
+  # 🌐 Network
+  http: ^1.2.0
+
+  # 🧭 Routing
+  go_router:
+
+  # 🕒 Date formatting
+  intl: ^0.19.0
+
+  # 🧪 Debug/Logs
+  logger: ^2.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  # 🖼️ Assets
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/fonts/
+    - assets/data/
+  # 🖋️ Fonts (กำหนดภายหลัง)
+  # fonts:
+  #   - family: YourFont
+  #     fonts:
+  #       - asset: assets/fonts/YourFont-Regular.ttf

@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "user_1",
+      "email": "Karina@gmail.com",
+      "firstName": "Karina",
+      "lastName": "blue",
+      "phoneNumber": "0956483213",
+      "profileImageUrl": "https://i.pinimg.com/736x/2b/e4/33/2be433508a2097c253d616c9d91706e6.jpg",
+      "dateOfBirth": "1990-05-15T00:00:00Z",
+      "address": "123 Main Street",
+      "city": "New York",
+      "country": "USA",
+      "zipCode": "10001",
+      "isEmailVerified": true,
+      "isPhoneVerified": true,
+      "role": "customer",
+      "createdAt": "2023-12-01T10:00:00Z",
+      "updatedAt": "2024-01-15T14:30:00Z",
+      "authToken": "mock_token_123",
+      "tokenExpiresAt": "2024-12-31T23:59:59Z"
+    }
+  ]
+}

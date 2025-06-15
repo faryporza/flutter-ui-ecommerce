@@ -1,0 +1,49 @@
+{
+  "categories": [
+    {
+      "id": "cat_1",
+      "name": "Electronics",
+      "description": "Latest gadgets and electronic devices",
+      "iconUrl": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=100",
+      "productCount": 245,
+      "isActive": true,
+      "sortOrder": 1
+    },
+    {
+      "id": "cat_2",
+      "name": "Clothing",
+      "description": "Fashion and apparel for all occasions",
+      "iconUrl": "https://images.unsplash.com/photo-1445205170230-053b83016050?w=100",
+      "productCount": 189,
+      "isActive": true,
+      "sortOrder": 2
+    },
+    {
+      "id": "cat_3",
+      "name": "Sports",
+      "description": "Sports equipment and athletic wear",
+      "iconUrl": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=100",
+      "productCount": 156,
+      "isActive": true,
+      "sortOrder": 3
+    },
+    {
+      "id": "cat_4",
+      "name": "Books",
+      "description": "Books across all genres and topics",
+      "iconUrl": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=100",
+      "productCount": 78,
+      "isActive": true,
+      "sortOrder": 4
+    },
+    {
+      "id": "cat_5",
+      "name": "Home & Garden",
+      "description": "Everything for your home and garden",
+      "iconUrl": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=100",
+      "productCount": 134,
+      "isActive": true,
+      "sortOrder": 5
+    }
+  ]
+}
